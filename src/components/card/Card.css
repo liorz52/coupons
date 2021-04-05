@@ -1,0 +1,23 @@
+.cardDiv {
+    height: 120px;
+    width: 180px;
+    display: inline-block;
+    color: black;
+    margin: 10px;
+    padding-top: 50px;
+    border-style: none;
+    border-color:black;
+    background-color: white;
+    background-image: url(Card.jpg);
+    background-repeat: no-repeat;
+    background-size: 110%;
+    background-position: center;
+    background-blend-mode:darken;
+    letter-spacing: 1.4px;
+    font-size: 14px;
+    font-family: YEEZY TSTAR,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 750;
+    word-wrap: break-word;
+    overflow-x: hidden;
+  }

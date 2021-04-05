@@ -1,0 +1,29 @@
+.user-details{
+    font-family: YEEZY TSTAR,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 750;
+    color: white;
+    background-position: bottom;
+    background-color: rgb(56, 52, 52);
+    background-image: url(UserDetails.jpg);
+    background-repeat:repeat-x;
+    height: 90vh;
+}
+.company-id{
+    font-family: YEEZY TSTAR,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 750;
+  
+    color: white;
+}
+.buttons>input{
+    border-radius: 25px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.buttons>  input[type=button]{
+    background-color: white;
+}
+.buttons{
+    margin-left: 15px;
+     margin-right: 15px;
+}

@@ -1,0 +1,26 @@
+.Customer{
+    color:black;
+    letter-spacing: 1.4px;
+    font-family: YEEZY TSTAR,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 750;
+    background-color: white;
+}
+
+.category{
+  margin-left: 10px;
+}
+
+.max-price{
+  margin-left: 10px;
+  
+}
+
+.max-price-input{
+  margin-left: 10px;
+  width: 60px;
+}
+
+.search{
+  margin-left: 10px;
+}

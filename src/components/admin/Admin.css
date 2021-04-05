@@ -1,0 +1,25 @@
+.Admin{
+    overflow-y: auto;
+    overflow-x: hidden;   
+    font-family: YEEZY TSTAR,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 750; 
+    background-color: white;
+    color:black;
+}
+
+.category{
+    margin-left: 10px;
+}
+
+.max-price{
+    margin-left: 10px;
+}
+
+.max-price-input{
+    margin-left: 10px;
+}
+
+.search{
+    margin-left: 10px;
+}

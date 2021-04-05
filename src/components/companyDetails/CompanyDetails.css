@@ -1,0 +1,25 @@
+.company-details{
+    letter-spacing: 1.4px;
+    padding-top: 40px;
+    font-family: YEEZY TSTAR,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    height: 90vh;
+    font-size: 16px;
+    background-image: url(CompanyDetails.jpg);
+    background-size: 35%;
+    filter: contrast();
+    background-repeat: no-repeat;
+    background-position: left;
+   background-blend-mode: darken;
+}
+.buttons{
+    margin-left: 15px;
+}
+.buttons>input{
+    border-radius: 25px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.buttons>  input[type=button]{
+    background-color: white;
+  
+}
